@@ -41,4 +41,4 @@ FIles | Description
 
 ### Contributors
 
-- Rhomeinel(rhomeinel@gmail.com)
+lurdnDolz(ayomidolapo@gmail.com)
